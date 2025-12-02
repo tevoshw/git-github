@@ -5,3 +5,5 @@
 **GIT SWITCH 'NAME'**: Change the actual branch
 
 **GIT MERGE 'NAME' -M 'MENSSAGE'**: Commit others branchs
+
+**GIT FETCH ORIGIN**: Pull the adds from main to the branch
