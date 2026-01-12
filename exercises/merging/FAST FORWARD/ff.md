@@ -1,0 +1,5 @@
+# FAST FORWARD MERGING IT'S A METHOD THAT THE GIT DO, IF THE MAIN WAS THE SAME IN THE STORYLINE, AND YOU MERGE A FEATURE/BRANCH
+
+**GIT MERGE --ONLY-FF:** Force the git to do a fast forward merge
+
+![alt text](ff.png)
