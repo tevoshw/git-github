@@ -1,4 +1,4 @@
-**GIT PUSH -U ORIGIN 'NAME-OF-BRANCH'** : PUSHES A BRANCH TO GITHUB (just once time in the branch history it's necessary)
+**GIT PUSH -U ORIGIN 'NAME-OF-BRANCH'** : PUSHES A BRANCH TO GITHUB (just once time in the branch history it's necessary
 
 **GIT BRANCH -d 'NAME-OF-BRANCH'**: DELETE A BRANCH IFS MERGING (local)
 
