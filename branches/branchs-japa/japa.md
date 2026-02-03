@@ -13,3 +13,4 @@ git restore: descarta as alterações feitas no arquivo atual e restaura tudo pa
 git branch -d <nome-da-branch>: deleta uma branch opcionalmente (local)
 git branch -D <nome-da-branch>: deleta uma branch obrigatoriamente (local)
 git push origin --delete <name>: deleta uma branch (remoto)
+git clone <url>: copia o repositório de outro usuário
